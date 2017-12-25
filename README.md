@@ -26,7 +26,7 @@ clustered data for building the predictive model.
 
 	1.The project was done in FLASK framework.
 	
-	2.Pyhon 2.7 was used for that.
+	2.Python 2.7 was used for that.
 	
 	3.Can Install flask using pip command as
 	
