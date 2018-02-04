@@ -1,14 +1,4 @@
-# Degree-Project
 A Novel Approach for Classification Using Clustering -A Case Study on Heart Disease Prediction
-*********************************************************
-
-
-
-The project work entitled “     A NOVEL APPROACH    FOR 
-CLASSIFICATION USING CLUSTERING - A CASE STUDY ON HEART 
-DISEASE PREDICTION ”  is a RESEARCH LEVEL PROJECT done by
- Vyshak Puthusseri & Sreeragh M of BSc Comp. Science    , 
-Mahatma Gandhi College Iritty 2014-27 batch.
 
 ********************* About this project ***************
 --------------------------------------------------------
@@ -33,16 +23,3 @@ clustered data for building the predictive model.
 	  pip install flask
 
 
-********************* Contact Us ************************
----------------------------------------------------------
-
-Vyshak Puthusseri :vyshakputhusseri@gmail.com
-		  :7560817388
-
-Sreeragh M	  :sreeraghachumavilla@gmail.com
-		  :9846524265
-
-
-
-
-**********************************************************
